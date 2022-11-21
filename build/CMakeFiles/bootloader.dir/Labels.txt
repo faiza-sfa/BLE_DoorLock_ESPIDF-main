@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/CMakeFiles/bootloader
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/CMakeFiles/bootloader.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/CMakeFiles/bootloader-complete.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/media/faiza/266c5724-4af6-4751-b3c2-9a8d83594a29/esp-idf_codes/BLE_DoorLock_ESPIDF-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
